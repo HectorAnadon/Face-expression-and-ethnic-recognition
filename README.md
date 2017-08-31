@@ -1,4 +1,4 @@
-## Face expression and ethnic recognition
+# Face expression and ethnic recognition
 
 This project creates two image models: for face expression recognition and for ethnic classification. The dataset used for training is the [Montreal Set of facial displays of emotion (MSFDE)](http://www.psychophysiolab.com/msfde/terms.php). The images are taken from 32 participants (African, Asian, Caucasian and Hispanic). Each person shows different expressions (neutral, anger, joy, sadness, fear, disgust and shame) with different intensity of the emotion obtaining a total of 580 training images.
 
@@ -14,19 +14,19 @@ Both approachs may be feasible to test in realtime as they can process around 5 
 
 ## How to run the code:
 
-# For making the dataset
+### For making the dataset
 
 $ python read_images.py
 
 $ python read_emotions.py
 
-# For expression recognition
+### For expression recognition
 
 $ python train_emotion.py
 
 $ python test_emotions.py -i <image-path>
 
-For ethnic recognition
+### For ethnic recognition
 
 $ python train_ethnic.py
 
