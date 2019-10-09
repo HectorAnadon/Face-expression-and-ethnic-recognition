@@ -1,6 +1,6 @@
 # Face expression and ethnic recognition
 
-This project creates two image models: for face expression recognition and for ethnic classification. The pre-trained models can be found [here](https://www.dropbox.com/home/Face-expression-and-ethnic-recognition).
+This project creates two image models: for face expression recognition and for ethnic classification. The pre-trained models can be found [here](https://www.dropbox.com/sh/5loojypio177qcn/AACF0T2YBHt8Uv9KoIFhX3Pfa?dl=0).
 
 The dataset used for training is the [Montreal Set of facial displays of emotion (MSFDE)](http://www.psychophysiolab.com/msfde/terms.php). The images are taken from 32 participants (African, Asian, Caucasian and Hispanic). Each person shows different expressions (neutral, anger, joy, sadness, fear, disgust and shame) with different intensity of the emotion obtaining a total of 580 training images.
 
