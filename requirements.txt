@@ -3,7 +3,7 @@ Keras==2.0.8
 keras_vggface==0.3
 numpy==1.13.1
 imutils==0.4.3
-opencv_python==3.3.0.9
+opencv_python==3.4.0.12
 matplotlib==2.0.2
 scipy==0.19.0
 Pillow==4.2.1
